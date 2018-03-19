@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.thomsonreuters.ema.access.OmmConsumerClient"/>
+<fullyQualifiedTypeName name="com.thomsonreuters.gcp.feedPrc4Trmi.emaAppClient"/>
+<fullyQualifiedTypeName name="com.thomsonreuters.gcp.feedPrc4Trmi.emaConnectionManagement"/>
+<fullyQualifiedTypeName name="com.thomsonreuters.ema.access.DataType.DataTypes"/>
+<fullyQualifiedTypeName name="com.thomsonreuters.upa.codec.Vector"/>
+<fullyQualifiedTypeName name="com.thomsonreuters.ema.access.FieldList"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.text.ParseException"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.thomsonreuters.ema.access.ElementList"/>
+<fullyQualifiedTypeName name="com.thomsonreuters.ema.access.OmmArray"/>
+<fullyQualifiedTypeName name="com.thomsonreuters.ema.rdm.EmaRdm"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.time.DateUtils"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

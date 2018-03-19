@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/feedPrc4Trmi/src/com/thomsonreuters/gcp/feedPrc4Trmi/emaMain.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.thomsonreuters.gcp.feedPrc4Trmi.emaMain"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-h &quot;10.33.110.129&quot; -p 14002 -u &quot;suzuknor&quot; -s &quot;ELEKTRON_AD&quot; -n &quot;./RIC.dat&quot; -f ./FID.dat"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="feedPrc4Trmi"/>
+</launchConfiguration>
